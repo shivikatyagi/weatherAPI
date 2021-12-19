@@ -20,4 +20,3 @@ const geocode = (address, callback) => {
 
 module.exports = geocode
 
-//const geocodeurl = 'https://api.mapbox.com/geocoding/v5/mapbox.places/Los%20Angeles.json?access_token=pk.eyJ1IjoiaWFtc2hpdmlrYXR5YWdpIiwiYSI6ImNreGJrOHZvMDA4emcybm1teXRyOGFlY3gifQ.KYUFqdq68RORFq9ovRqlIw'
