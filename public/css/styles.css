@@ -1,6 +1,7 @@
-
 body {
-    background-color: rgb(179, 231, 214);
+    background-image: url(../img/bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;   
     color: #1e2935;
     font-family: arial;
     max-width: 650px;
