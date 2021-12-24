@@ -1,5 +1,7 @@
+
 body {
-    color: #333333;
+    background-color: rgb(179, 231, 214);
+    color: #1e2935;
     font-family: arial;
     max-width: 650px;
     margin: 0 auto;
@@ -15,7 +17,7 @@ body {
 }
 
 footer {
-    color: #888888;
+    color: #474040;
     border-top: 1px solid #eeeeee;
     margin-top: 16px;
     padding: 16px 0;
@@ -32,7 +34,7 @@ h1 {
 }
 
 header a {
-    color: #888888;
+    color: #413a3a;
     margin-right: 16px;
     text-decoration: none;
 }
@@ -42,14 +44,14 @@ header a {
 }
 
 input {
-    border: 1px solid #cccccc;
+    border: 1px solid #6b6262;
     padding: 8px;
 }
 
 button {
     cursor: pointer;
-    border: 1px solid #888888;
-    background: #888888;
+    border: 1px solid #494343;
+    background: #aa9d9d;
     color: white;
     padding: 8px;
 }
