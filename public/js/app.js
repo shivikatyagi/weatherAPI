@@ -4,7 +4,6 @@ const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const messageOne = document.querySelector('#message-1')
 const messageTwo = document.querySelector('#message-2')
-const clockElement = document.querySelector('#clock');
 
 weatherForm.addEventListener('submit', (e) => {
     e.preventDefault()
@@ -26,8 +25,5 @@ weatherForm.addEventListener('submit', (e) => {
     })
 })
 
-function clock() {
-    clockElement.textContent = new Date().toString();
-}
 
     
